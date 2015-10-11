@@ -184,7 +184,7 @@
     display: none;
 } 
 
-#fr_moreread_button {
+#recent .fr_btn{
     text-align: center;
     margin:0 auto;
     padding:5px;
@@ -195,6 +195,8 @@
     cursor: pointer;
 }
 
-#fr_moreread_button:hover {
+#recent .fr_btn:hover{
     opacity: 0.7;
 }
+
+
